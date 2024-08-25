@@ -46,7 +46,7 @@ def teamfrat_av(char_speeds):
 
     #General Variables_____________________________________________________________
     battle_log = []
-    #team_av_log = [] delete after done
+    #team_av_log = [] #delete when not needed
     team_av = [feixiao_av, robin_av*0.35, aven_av, topaz_av, numby_av, boss_av] #Ranks characters
     action_taken = 0 #Records amount of characters that have gone before Robin for her ult
 
